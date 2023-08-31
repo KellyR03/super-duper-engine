@@ -1,9 +1,9 @@
 # super-duper-engine
 
 ## User Story
-As A marketing agency
-I want a codebase that follows accessibility standards
-So that our own sute us optimized fro search engines
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
@@ -17,3 +17,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
