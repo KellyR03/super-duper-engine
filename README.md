@@ -18,3 +18,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+![Screenshot 2023-09-07 182255](https://github.com/KellyR03/super-duper-engine/assets/141443325/98443924-385e-4bcc-a173-ea15c3951bf1)
+https://kellyr03.github.io/super-duper-engine/#search-engine-optimization
